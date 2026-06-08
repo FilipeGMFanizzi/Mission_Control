@@ -1,4 +1,4 @@
-# Mission Control AI
+# Mission Control
 
 Sistema de monitoramento de missão espacial desenvolvido em Python para a Global Solution 2026.1 da FIAP.
 
